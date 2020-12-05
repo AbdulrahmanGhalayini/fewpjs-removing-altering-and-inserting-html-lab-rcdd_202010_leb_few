@@ -1,4 +1,5 @@
 let main = document.getElementById("main");
 main.remove();
-document.CreatElem
+var btn = document.createElement("h1");
+btn.set
 let newHeader = document.getElementById("h1#victory");
